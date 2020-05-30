@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # User defined variables variables
-DATA_DIR = 'C:/Users/Chris/Google Drive/Monopoly Datasets'
+DATA_DIR = 'C:/Users/Chris/Desktop'
 NUM_TURNS = 500000
 
 # Game variables
