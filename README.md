@@ -6,3 +6,5 @@ Landing on a location is defined as during the turn, if you rolled the die causi
 Assumptions made regarding the Chance and Community Chest piles are all drawn cards from their respective piles are placed into a separate pile until their respective piles are empty. It is at this point when all Chance or Community Chest cards (whichever pile is empty) not held by the player (Get Out of Jail Free cards) are reshuffled.
 
 If a player is in jail and they hold either one or both (Get Out of Jail Free cards), they will choose with 50% to use one to get out of jail for the next turn. This is done because there are no incentives to stay in or leave jail.
+
+The graphs representing the probability of landing on each location and on each type of property in the game can be found in the 'Results' folder.
