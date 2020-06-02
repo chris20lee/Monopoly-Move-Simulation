@@ -1,8 +1,8 @@
 # Import statements
-import random
-import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import random
 
 # User defined variables variables
 DATA_DIR = 'C:/Users/Chris/Desktop'
